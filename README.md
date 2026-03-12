@@ -25,5 +25,5 @@ Implementation of the Gram–Schmidt algorithm to generate orthonormal bases fro
 ### Assignment 5 – Taylor Series Approximation
 Visualization of Taylor series convergence for the cosine function along with 3D surface plotting of the sinc function.
 
-### RF Signal Simulation Using I/Q Componenets (ECE211)
+### ECE211 - RF Signal Simulation Using I/Q Componenets
 Simulation of a modulated RF signal constructed using in-phase (I) and quadrature (Q) components. Visualization of RF waveform, signal envelope, and individual componenet signals.
