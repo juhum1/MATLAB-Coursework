@@ -1,5 +1,6 @@
 Courses:
 ECE 210A - MATLAB Programming for Engineers
+
 ECE 211  - Signal Processing
 
 ## Key Topics
